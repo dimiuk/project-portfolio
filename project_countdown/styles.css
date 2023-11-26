@@ -1,0 +1,35 @@
+* {
+  text-align: center;
+}
+body {
+  background-color: antiquewhite;
+}
+
+img {
+  border-radius: 50%;
+  width: 250px;
+}
+
+.gift-info {
+  color: rgb(2, 2, 136);
+}
+
+.deadline {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.deadline-format div {
+  background-color: brown;
+  border: 2px solid lightcoral;
+  color: antiquewhite;
+  margin: 0 10px;
+  padding: 10px;
+  width: 50px;
+  text-align: center;
+}
+
+.deadline-format div h4 {
+  margin: 5px;
+}
